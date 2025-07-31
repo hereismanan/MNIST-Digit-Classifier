@@ -20,7 +20,7 @@ This project compares two deep learning models for handwritten digit recognition
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/<hereismanan>/MNIST-Digit-Classifier.git
+git clone https://github.com/hereismanan/MNIST-Digit-Classifier.git
 cd MNIST-Digit-Classifier
 ```
 2. **Install dependencies**:
