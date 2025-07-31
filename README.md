@@ -10,7 +10,7 @@ This project compares two deep learning models for handwritten digit recognition
 
 | Model | Accuracy | Description |
 |-------|----------|-------------|
-| FFNN  | ~97.4%   | Dense-only architecture |
+| FFNN  | ~96%   | Dense-only architecture |
 | CNN   | ✅ 99.2% | Uses Conv2D + MaxPooling |
 
 
